@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "John Zhang's Projects"
+title: "Projects"
 ---
 
 # About Me
