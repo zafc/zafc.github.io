@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "John Zhang's Experience"
+title: "Experience"
 ---
 
 # About Me
