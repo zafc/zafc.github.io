@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "John Zhang's CV"
+title: "CV"
 ---
 
 # CV
